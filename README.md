@@ -1,6 +1,6 @@
 ## Hi there 👋
-👋 Welcome to my profile!
-🌱 I’m currently learning Git, GitHub and C#
+- 👋 Welcome to my profile!
+- 🌱 I’m currently learning Git, GitHub and C#
 
 <!--
 **mlp01kodehode/mlp01kodehode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
